@@ -21,7 +21,8 @@ I have a keen interest in:
 
 ### What You'll Find Here
 
-On my GitHub, you'll find a collection of projects and repositories related to data analysis. I'm excited to share my work, collaborate with others, and learn from the amazing data community on GitHub.
+On my GitHub, you'll find a collection of projects and repositories related to data analysis. I'm excited to share my work, collaborate with others, and learn from the amazing data 
+ community on GitHub.
 
 ### Let's Connect!
 
