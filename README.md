@@ -6,7 +6,7 @@ Hi there! I'm Varnika Bhardwaj, a passionate and aspiring Data Analyst. I'm thri
 
 - 📊 Data Analysis Enthusiast
 - 🎓 Recent Graduate in  bachelors of computer applications
-- 🌍 Based in Ghaziabad,UP
+- 🌍 Based in Ghaziabad,UP 
 - 🌱 Constantly Learning and Growing
 
 ### My Interests
