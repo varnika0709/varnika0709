@@ -27,7 +27,7 @@ On my GitHub, you'll find a collection of projects and repositories related to d
 
 I'm always open to networking and learning from fellow data enthusiasts. Feel free to reach out to me here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/varnika-bhardwaj07).
 
-### Goals
+### Goals 
 
 My short-term goal is to land my first job or internship in the field of data analysis. In the long term, I aspire to become a seasoned data professional and contribute to exciting data-driven projects.
 
